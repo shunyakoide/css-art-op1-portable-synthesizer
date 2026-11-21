@@ -5,4 +5,4 @@ Worked on Codepen with HTML/SCSS and Microsoft Edge
 
 Codepen: https://codepen.io/shunyadezain/pen/QWyVwep?editors=0110
 
-Github Page: https://shunyagithub.github.io/css-art-op1-portable-synthesizer/
+Github Page: https://shunyakoide.github.io/css-art-op1-portable-synthesizer/
